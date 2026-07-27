@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @scurcuruto
+- 👋 Hi, I’m @src_code, or Sam Curcuruto to humans. I do product marketing.
 - 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning Python
 - 📫 How to reach me ...
